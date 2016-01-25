@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/owenso/nomadize#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {
+    "grunt-babel": "^6.0.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1"
   }
 }

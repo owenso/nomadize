@@ -1,7 +1,7 @@
 {
   "name": "nomadize",
   "version": "1.0.0",
-  "description": "",
+  "description": "Make me a nomad.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/owenso/nomadize/issues"
   },
-  "homepage": "https://github.com/owenso/nomadize#readme"
+  "homepage": "https://github.com/owenso/nomadize#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }

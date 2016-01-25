@@ -1,0 +1,19 @@
+{
+  "name": "nomadize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenso/nomadize.git"
+  },
+  "author": "Owens O'Brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenso/nomadize/issues"
+  },
+  "homepage": "https://github.com/owenso/nomadize#readme"
+}

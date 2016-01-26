@@ -23,8 +23,5 @@
     "morgan": "^1.6.1"
   },
   "devDependencies": {
-    "grunt-babel": "^6.0.0",
-    "gulp": "^3.9.0",
-    "gulp-babel": "^6.1.1"
   }
 }

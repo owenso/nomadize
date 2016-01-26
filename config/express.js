@@ -30,8 +30,6 @@ module.exports = function() {
     app.use(methodOverride());
 
     app.use(express.static('./public'));
-
-    app.get('/', function(req, res) {res.send('Working')});
     
     return app;
 };

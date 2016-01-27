@@ -23,6 +23,7 @@
     "method-override": "^2.3.5",
     "mongoose": "^4.3.7",
     "morgan": "^1.6.1",
+    "sabre-dev-studio": "^1.0.2",
     "serve-favicon": "^2.3.0"
   },
   "devDependencies": {}

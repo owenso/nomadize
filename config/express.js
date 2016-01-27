@@ -31,5 +31,7 @@ module.exports = function() {
 
     app.use(express.static('./public'));
     
+    require('../server/routes/sabre.server.routes.js')(app);
+
     return app;
 };

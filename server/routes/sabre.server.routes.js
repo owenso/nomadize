@@ -1,4 +1,4 @@
-var root = '/api/v1/';
+var root = require('./api_version.js');
 var sabre = require('../controllers/sabre.server.controller');
 
 

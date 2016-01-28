@@ -35,7 +35,9 @@ module.exports = function() {
     app.set('view engine', 'html');
 
     app.get('/', function(req,res){res.sendFile('index.html')});
+
     require('../server/routes/sabre.server.routes.js')(app);
+    require('../server/routes/geolocation.server.routes.js')(app);
 
     return app;
 };

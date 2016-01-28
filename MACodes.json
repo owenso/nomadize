@@ -12,7 +12,7 @@
         }, {
             "country": "People's Republic of China",
             "iata": "BJS",
-            "city": "People's Republic of China",
+            "city": "Beijing",
             "country_abrv": "CHN",
             "airports": ["Beijing, People's Republic of China IATA: BJS", "Beijing Capital International IATA: PEK", "Nanyuan Airport IATA: NAY"]
         }, {
@@ -194,16 +194,14 @@
         }, {
             "country": "United States of America",
             "iata": "NYC",
-            "city": "New York City",
+            "city": "New York",
             "country_abrv/_source": "United States of America",
             "country_abrv": "USA",
             "airports": ["New York City, United States of America IATA: NYC", "John F. Kennedy International IATA: JFK", "Newark Liberty International IATA: EWR", "La Guardia Airport IATA: LGA", "Westchester County/White Plains Airport IATA: HPN"]
         }, {
-            "country": [
-                "United States of America"
-            ],
+            "country": "United States of America",
             "iata": "QSF",
-            "city": "San Francisco Bay Area",
+            "city": "San Francisco",
             "country_abrv/_source": "United States of America",
             "country_abrv": "USA",
             "airports": ["San Francisco Bay Area, United States of America IATA: QSF", "Recognized in Sabre and ITA; elsewhere, QSF represents Ain Arnat Airport in Setif, Algeria San Francisco International IATA: SFO", "Oakland International IATA: OAK", "Norman Y. Mineta San José International IATA: SJC"]

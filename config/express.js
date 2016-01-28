@@ -30,7 +30,11 @@ module.exports = function() {
     app.use(methodOverride());
 
     app.use(express.static('./public'));
-    
+
+    app.use(express.static('./views'));
+    app.set('view engine', 'html');
+
+    app.get('/', function(req,res){res.sendFile('index.html')});
     require('../server/routes/sabre.server.routes.js')(app);
 
     return app;

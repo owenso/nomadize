@@ -1,0 +1,255 @@
+{
+    "title": "Metropolitan Area Airport Codes - Wikitravel",
+    "offset": 0,
+    "pageUrl": "http://wikitravel.org/en/Metropolitan_Area_Airport_Codes",
+    "results": [{
+            "country": "Thailand",
+            "iata": "BKK",
+            "city": "Bangkok",
+            "country_abrv/_source": "Thailand",
+            "country_abrv": "THA",
+            "airports": ["Bangkok, Thailand IATA: BKK", "Bangkok International Suvarnabhumi Airport IATA: BKK", "Bangkok Don Mueang International Airport IATA: DMK"]
+        }, {
+            "country": "People's Republic of China",
+            "iata": "BJS",
+            "city": "People's Republic of China",
+            "country_abrv": "CHN",
+            "airports": ["Beijing, People's Republic of China IATA: BJS", "Beijing Capital International IATA: PEK", "Nanyuan Airport IATA: NAY"]
+        }, {
+            "country": "Japan",
+            "iata": "OSA",
+            "city": "Osaka",
+            "country_abrv/_source": "Japan",
+            "country_abrv": "JPN",
+            "airports": ["Osaka, Japan IATA: OSA", "Kansai International IATA: KIX", "Itami IATA: ITM", "Kobe IATA: UKB"]
+        }, {
+            "country": "Japan",
+            "iata": "SPK",
+            "city": "Sapporo",
+            "country_abrv/_source": "Japan",
+            "country_abrv": "JPN",
+            "airports": ["Sapporo, Japan IATA: SPK", "New Chitose IATA: CTS", "Okadama IATA: OKD"]
+        }, {
+            "country": "South Korea",
+            "iata": "SEL",
+            "city": "Seoul",
+            "country_abrv/_source": "South Korea",
+            "country_abrv": "KOR",
+            "airports": ["Seoul, South Korea IATA: SEL", "Incheon International IATA: ICN", "Gimpo International IATA: GMP"]
+        }, {
+            "country": "People's Republic of China",
+            "iata": "SHA",
+            "city": "Shanghai",
+            "country_abrv": "CHN",
+            "airports": ["Shanghai, People's Republic of China IATA: SHA", "Shanghai Hongqiao International Airport IATA: SHA", "Shanghai Pudong International Airport IATA: PVG"]
+        }, {
+            "country": "Japan",
+            "iata": "TYO",
+            "city": "Tokyo",
+            "country_abrv/_source": "Japan",
+            "country_abrv": "JPN",
+            "airports": ["Tokyo, Japan IATA: TYO", "Tokyo Narita IATA: NRT", "Tokyo Haneda IATA: HND"]
+        }, {
+            "country": "Indonesia",
+            "iata": "JKT",
+            "city": "Jakarta",
+            "country_abrv/_source": "Indonesia",
+            "country_abrv": "IDN",
+            "airports": ["Jakarta, Indonesia IATA: JKT", "Jakarta Indonesia Soekarno-Hatta Airport IATA: CGK", "Jakarta Indonesia Halim Perdanakusuma Airport IATA: HLP"]
+        }, {
+            "country": "Germany",
+            "iata": "BER",
+            "city": "Berlin",
+            "country_abrv/_source": "Germany",
+            "country_abrv": "DEU",
+            "airports": ["Berlin, Germany IATA: BER", "Berlin Brandenburg IATA: BER", "Opening 2016 Berlin Tegel IATA: TXL", "Berlin Schönefeld IATA: SXF"]
+        }, {
+            "country": "Romania",
+            "iata": "BUH",
+            "city": "Bucharest",
+            "country_abrv/_source": "Romania",
+            "country_abrv": "ROM",
+            "airports": ["Bucharest, Romania IATA: BUH", "Bucharest Otopeni IATA: OTP", "Bucharest Baneasa IATA: BBU"]
+        }, {
+            "country": "United Kingdom",
+            "iata": "LON",
+            "city": "London",
+            "country_abrv/_source": "United Kingdom",
+            "country_abrv": "GBR",
+            "airports": ["London, United Kingdom IATA: LON", "London Biggin Hill IATA: BQH", "London City IATA: LCY", "London Gatwick IATA: LGW", "London Luton IATA: LTN", "London Heathrow IATA: LHR", "London Southend IATA: SEN", "London Stansted IATA: STN"]
+        }, {
+            "country": "Italy",
+            "iata": "MIL",
+            "city": "Milan",
+            "country_abrv/_source": "Italy",
+            "country_abrv": "ITA",
+            "airports": ["Milan, Italy IATA: MIL", "Bergamo / Orio al Serio IATA: BGY", "Malpensa International IATA: MXP", "Linate IATA: LIN", "Parma IATA: PMF"]
+        }, {
+            "country": "Russia",
+            "iata": "MOW",
+            "city": "Moscow",
+            "country_abrv/_source": "Russia",
+            "country_abrv": "RUS",
+            "airports": ["Moscow, Russia IATA: MOW", "Sheremetyevo IATA: SVO", "Domodedovo IATA: DME", "Vnukovo IATA: VKO", "Bykovo IATA: BKA"]
+        }, {
+            "country": "Norway",
+            "iata": "OSL",
+            "city": "Oslo",
+            "country_abrv/_source": "Norway",
+            "country_abrv": "NOR",
+            "airports": ["Oslo, Norway, IATA: OSL", "Oslo Airport Gardermoen IATA: OSL", "Sandefjord Airport Torp IATA: TRF", "Moss Airport Rygge IATA: RYG"]
+        }, {
+            "country": "France",
+            "iata": "PAR",
+            "city": "Paris",
+            "country_abrv/_source": "France",
+            "country_abrv": "FRA",
+            "airports": ["Paris, France IATA: PAR", "Charles de Gaulle (Roissy) IATA: CDG", "Paris Orly IATA: ORY", "Le Bourget IATA: LBG"]
+        }, {
+            "country": "Iceland",
+            "iata": "REK",
+            "city": "Reykjavik",
+            "country_abrv/_source": "Iceland",
+            "country_abrv": "ISL",
+            "airports": ["Reykjavik, Iceland IATA: REK", "Keflavik International IATA: KEF", "Reykjavik IATA: RKV"]
+        }, {
+            "country": "Italy",
+            "iata": "ROM",
+            "city": "Rome",
+            "country_abrv/_source": "Italy",
+            "country_abrv": "ITA",
+            "airports": ["Rome, Italy IATA: ROM", "Leonardo da Vinci International (Fiumicino) IATA: FCO", "Giovan-Battista Pastine International (Ciampino) IATA: CIA"]
+        }, {
+            "country": "Sweden",
+            "iata": "STO",
+            "city": "Stockholm",
+            "country_abrv/_source": "Sweden",
+            "country_abrv": "SWE",
+            "airports": ["Stockholm, Sweden IATA: STO", "Arlanda IATA: ARN", "Skavsta AB (Nyköping) IATA: NYO", "Bromma IATA: BMA", "Västerås IATA: VST"]
+        }, {
+            "country": "Spain",
+            "iata": "TCI",
+            "city": "Tenerife",
+            "country_abrv/_source": "Spain",
+            "country_abrv": "ESP",
+            "airports": ["Tenerife, Spain IATA: TCI", "Tenerife North IATA: TFN", "Tenerife South IATA: TFS"]
+        },
+
+        {
+            "country": "United States of America",
+            "iata": "CHI",
+            "city": "Chicago",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Chicago, United States of America- IATA: CHI", "Chicago O'Hare International IATA: ORD", "Chicago Midway International IATA: MDW", "Chicago Rockford International IATA: RFD"]
+        }, {
+            "country": "United States of America",
+            "iata": "QDF",
+            "city": "Dallas",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Dallas, United States of America - IATA: QDF", "Dallas Love Field IATA: DAL", "Dallas Fort-Worth International IATA: DFW"]
+        }, {
+            "country": "United States of America",
+            "iata": "DTT",
+            "city": "Detroit",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Detroit, United States of America- IATA: DTT", "Detroit Metro Wayne CountyIATA: DTW", "Detroit Coleman Young IATA: DET", "Willow Run/Ypsilanti IATA: YIP"]
+        }, {
+            "country": "Canada",
+            "iata": "YEA",
+            "city": "Edmonton",
+            "country_abrv/_source": "Canada",
+            "country_abrv": "CAN",
+            "airports": ["Edmonton, Canada IATA: YEA", "Edmonton International IATA: YEG"]
+        }, {
+            "country": "United States of America",
+            "iata": "QHO",
+            "city": "Houston",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Houston Bush Intercontinental IATA: IAH", "Houston Hobby IATA: HOU"]
+        }, {
+            "country": "United States of America",
+            "iata": "QLA",
+            "city": "Los Angeles",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Los Angeles International IATA: LAX", "Ontario International IATA: ONT", "John Wayne Orange County IATA: SNA", "Burbank IATA: BUR"]
+        }, {
+            "country": "United States of America",
+            "iata": "QMI",
+            "city": "Miami",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Miami International IATA: MIA", "Ft. Lauderdale International IATA: FLL", "Palm Beach International IATA: PBI"]
+        }, {
+            "country": "Canada",
+            "iata": "YMQ",
+            "city": "Montreal",
+            "country_abrv/_source": "Canada",
+            "country_abrv": "CAN",
+            "airports": ["Montreal, Canada IATA: YMQ", "Pierre-Elliott Trudeau International IATA: YUL", "Montreal City Centre IATA: YMY"]
+        }, {
+            "country": "United States of America",
+            "iata": "NYC",
+            "city": "New York City",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["New York City, United States of America IATA: NYC", "John F. Kennedy International IATA: JFK", "Newark Liberty International IATA: EWR", "La Guardia Airport IATA: LGA", "Westchester County/White Plains Airport IATA: HPN"]
+        }, {
+            "country": [
+                "United States of America"
+            ],
+            "iata": "QSF",
+            "city": "San Francisco Bay Area",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["San Francisco Bay Area, United States of America IATA: QSF", "Recognized in Sabre and ITA; elsewhere, QSF represents Ain Arnat Airport in Setif, Algeria San Francisco International IATA: SFO", "Oakland International IATA: OAK", "Norman Y. Mineta San José International IATA: SJC"]
+        }, {
+            "country": "Canada",
+            "iata": "YTO",
+            "city": "Toronto",
+            "country_abrv/_source": "Canada",
+            "country_abrv": "CAN",
+            "airports": ["Toronto, Canada IATA: YTO", "Lester B. Pearson International IATA: YYZ", "Toronto City Center IATA: YTZ", "Kitchener-Region of Waterloo International Airport IATA: YKF"]
+        }, {
+            "country": "United States of America",
+            "iata": "WAS",
+            "city": "Washington DC",
+            "country_abrv/_source": "United States of America",
+            "country_abrv": "USA",
+            "airports": ["Washington DC, United States of America IATA: WAS", "Washington Dulles International Airport IATA: IAD", "Ronald Reagan Washington National Airport IATA: DCA", "Baltimore-Washington Thurgood Marshall International Airport IATA: BWI"]
+        },
+        {
+            "country": "Brazil",
+            "iata": "BHZ",
+            "city": "Belo Horizonte",
+            "country_abrv/_source": "Brazil",
+            "country_abrv": "BRA",
+            "airports": ["Belo Horizonte, Brazil IATA: BHZ", "Confins International Airport IATA: CNF", "Pampulha Airport IATA: PLU"]
+        }, {
+            "country": "Argentina",
+            "iata": "BUE",
+            "city": "Buenos Aires",
+            "country_abrv/_source": "Argentina",
+            "country_abrv": "ARG",
+            "airports": ["Buenos Aires, Argentina IATA: BUE", "Ezeiza International Airport IATA: EZE", "Aeroparque Jorge Newbery IATA: AEP"]
+        }, {
+            "country": "Brazil",
+            "iata": "RIO",
+            "city": "Rio de Janeiro",
+            "country_abrv/_source": "Brazil",
+            "country_abrv": "BRA",
+            "airports": ["Rio de Janeiro, Brazil IATA: RIO", "Galeão - Antônio Carlos Jobim International Airport IATA: GIG", "(better known as Galeão International Airport) Aeroporto Santos Dumont IATA: SDU"]
+        }, {
+            "country": "Brazil",
+            "iata": "SAO",
+            "city": "São Paulo",
+            "country_abrv/_source": "Brazil",
+            "country_abrv": "BRA",
+            "airports": ["São Paulo, Brazil IATA: SAO", "Aeroporto Internacional Guarulhos IATA: GRU", "Congonhas International Airport IATA: CGH", "Viracopos – Campinas International Airport IATA: VCP"]
+        }
+    ]
+}

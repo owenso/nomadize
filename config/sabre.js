@@ -8,8 +8,6 @@ module.exports = function() {
         client_secret: config.sabre.sharedSecret,
         uri: 'https://api.test.sabre.com'
     });
-    console.log(sabre_dev_studio.get);
-    console.log('this here')
     return sabre_dev_studio;
 
 };

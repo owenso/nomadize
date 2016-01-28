@@ -8,6 +8,7 @@ exports.findNearest = function (req, res) {
         var multiCodes = JSON.parse(chunk);
         for (var i = 0; i <mac.results.length; i++){
         	if (mac.results[i].city == multiCodes.city){
+        		console.log(multiCodes.city);
         		console.log(mac.results[i].iata);
         	}
         }

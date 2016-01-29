@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/owenso/nomadize#readme",
   "dependencies": {
+    "airport-codes": "latest",
     "body-parser": "^1.14.2",
     "compression": "^1.6.1",
     "dtrace-provider": "^0.6.0",

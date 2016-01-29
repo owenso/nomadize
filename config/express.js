@@ -38,6 +38,7 @@ module.exports = function() {
 
     require('../server/routes/sabre.server.routes.js')(app);
     require('../server/routes/geolocation.server.routes.js')(app);
+    require('../server/routes/airports.server.routes.js')(app);
 
     return app;
 };

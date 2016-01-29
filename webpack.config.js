@@ -1,6 +1,5 @@
 var path = require('path');
 var webpack = require('webpack');
-var hotMiddlewareScript = 'webpack-hot-middleware/client?path=/__webpack_hmr&timeout=20000&reload=true';
 
 module.exports = {
   entry: ['webpack-hot-middleware/client','./src/index.js'],
@@ -12,7 +11,7 @@ module.exports = {
   module: {
     loaders: [{
       exclude: /(node_modules|bower_components)/,
-      loaders: ['babel', 'webpack-module-hot-accept'],
+      loader: 'babel',
       // query: {
       //   presets: ['es2015', 'react', 'webpack-module-hot-accept']
       // }

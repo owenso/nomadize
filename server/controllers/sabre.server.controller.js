@@ -12,3 +12,12 @@ exports.getCountries = function (req, res){
 		}
 	});
 };
+
+
+exports.airportsAutoComplete = function(req, res) {
+
+	//sabre autocomplete
+	// sabreDev.get('/v1/lists/utilities/geoservices/autocomplete' + '?query=' + req.params.airport, options, function (err,data){
+
+	// });
+};

@@ -5,3 +5,4 @@ exports.listAll = function (req, res) {
 var list = airports.toJSON();
     res.send(list);
 };
+

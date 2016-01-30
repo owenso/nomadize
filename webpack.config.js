@@ -11,10 +11,7 @@ module.exports = {
   module: {
     loaders: [{
       exclude: /(node_modules|bower_components)/,
-      loader: 'babel',
-      // query: {
-      //   presets: ['es2015', 'react', 'webpack-module-hot-accept']
-      // }
+      loader: 'babel'
     }]
   },
   resolve: {

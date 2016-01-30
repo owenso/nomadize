@@ -11,5 +11,8 @@ module.exports = function() {
         }
     });
 
+
+    require('../server/models/citycodes.server.model');
+
     return db;
 };

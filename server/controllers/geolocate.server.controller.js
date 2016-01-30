@@ -1,17 +1,23 @@
 var http = require('http');
-var mac = require('../../MACodes.json');
+var CityCode = require('mongoose').model('CityCode');
 
-exports.findNearest = function (req, res) {
-	http.get('http://ipinfo.io', function(data) {
+exports.findNearest = function(req, res) {
+  http.get('http://ipinfo.io', function(data) {
     data.setEncoding('utf8');
-    data.on('data', function(chunk){
-        var multiCodes = JSON.parse(chunk);
-        for (var i = 0; i <mac.results.length; i++){
-        	if (mac.results[i].city == multiCodes.city){
-        		console.log(multiCodes.city);
-        		console.log(mac.results[i].iata);
-        	}
-        }
+    data.on('data', function(chunk) {
+      var multiCodes = JSON.parse(chunk);
+      CityCode
+        .findOne({
+          city: multiCodes.city
+        })
+        .exec(function(err, data) {
+          if (err) {
+            console.log('city not found');
+          } else {
+            console.log(data);
+            res.json(data.iata);
+          }
+        });
     });
-	});
+  });
 };

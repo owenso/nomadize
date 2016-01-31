@@ -14,8 +14,8 @@ exports.findNearest = function(req, res) {
           if (err) {
             console.log('city not found');
           } else {
-            console.log(data);
-            res.json(data.iata);
+            console.log(multiCodes);
+            res.json(data);
           }
         });
     });

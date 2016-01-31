@@ -46,4 +46,4 @@ class SearchBox extends React.Component {
   }
 }
 
-ReactDOM.render(<SearchBox/>, document.getElementById('container'));
+module.exports = SearchBox

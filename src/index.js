@@ -20,17 +20,10 @@ class App extends Component {
 
   getLoc() {
     const _this = this;
-    var xhr = new XMLHttpRequest();
-
-  	xhr.onreadystatechange = function() {
-  	    if (xhr.readyState == XMLHttpRequest.DONE) {
-            const locResult = JSON.parse(xhr.responseText);
-  	        console.log(locResult);
-            _this.setState({iata: locResult.iata});
-  	    }
-  	};
-  	xhr.open("GET", "/api/v1/locate", true);
-  	xhr.send(null);
+    $.get("/api/v1/locate", function ( data ) {
+      console.log(data);
+      _this.setState({iata: data.iata});
+    });
   }
 
   render() {

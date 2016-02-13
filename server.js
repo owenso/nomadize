@@ -13,3 +13,4 @@ app.listen(port);
 module.exports = app;
 
 console.log('Server running at port:' + port);
+console.log('Running in ' + process.env.NODE_ENV );
